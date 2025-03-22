@@ -1,0 +1,2 @@
+Pizza ordered - Price: 1000
+Total Bill: 1800
